@@ -1,5 +1,3 @@
-
-
 #folder numbering
 import os
 
@@ -23,5 +21,5 @@ def rename_files(folder_path):
             break
 
 # フォルダのパスを指定してファイル名を変更
-folder_path = "C:/Users/GTUNE/Desktop/声色"
+folder_path = "C:/Users/GTUNE/Desktop/"
 rename_files(folder_path)
